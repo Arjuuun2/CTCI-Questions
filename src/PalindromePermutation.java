@@ -12,12 +12,12 @@ import java.util.*;
 public class PalindromePermutation {
 
 	public static void main(String[] args) {
-		int[] table=new int[Character.getNumericValue('z')-Character.getNumericValue('a')+1];
-		for(int i=0;i<table.length;i++) {
-			System.out.println(table[i]);
+		
 		}
 		
-
-	}
+     public static boolean isPalindromePermutation(String phrase) {
+    	 
+     }
+	
 
 }
